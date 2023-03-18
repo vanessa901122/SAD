@@ -21,7 +21,9 @@
     
     感覺對新手(我)來說蠻有幫助的，之後有空也想來研究一下如何製作目錄！
   
-  - HI：
+  - w3schools：https://www.w3schools.com/html/default.asp
+    
+    這是之前學html的時候，用過蠻不錯的網站。
   
   - HI：
 
