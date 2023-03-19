@@ -14,6 +14,12 @@
   https://gitmind.cn/app/docs/mh6w2i8p
   
 * <h3>相關教學網站&學習資料</h3>
+  
+  - React：https://zh-hant.reactjs.org/tutorial/tutorial.html
+  
+  - Hardhat：https://hardhat.org/tutorial/creating-a-new-hardhat-project
+  
+* <h3>其他</h3>
 
   - GitHub基本語法&指令：https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e
     
@@ -30,8 +36,7 @@
   - Udemy：https://www.udemy.com/topic/smart-contracts/?sort=price-high-to-low&persist_locale&locale=zh_TW
   
   - Coursera：https://www.coursera.org/search?query=web3&
-  
-  
+    
 ---
 * <h3>作業二</h3>
 
