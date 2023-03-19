@@ -8,7 +8,7 @@
 
 ---
 * <h3>作業一影片</h3>
-  https:
+  https://youtu.be/bUQ_bn7eQyI
      
 * <h3>Web3心智圖連結</h3>
   https://gitmind.cn/app/docs/mh6w2i8p
