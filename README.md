@@ -34,7 +34,11 @@
   - **[Hahow好學校](https://hahow.in/search?query=web3)、[Udemy](https://www.udemy.com/topic/smart-contracts/?sort=price-high-to-low&persist_locale&locale=zh_TW)、[Coursera](https://www.coursera.org/search?query=web3&)**
       
     > 一些線上課程網站
+    
+  - **[老師的影片](https://youtube.com/playlist?list=PLH3VeiMX0ckiCqHLpLIBOMXQRtF_Vs3Eo)**
   
+    > 老師的課程影片
+
 ---
 * <h3>作業二</h3>
 
