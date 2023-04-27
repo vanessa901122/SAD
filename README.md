@@ -14,7 +14,7 @@
   https://youtu.be/aQ1Ji9DGTw4
   
 * <h3>作業三影片 - 專題實作規劃</h3>
-  https://youtu.be/
+  https://youtu.be/x9lGzQZBfSc
   
 * <h3>Notion進度規劃</h3>
   https://www.notion.so/muiium/b88e509d60764748bed9815314735281?pvs=4
