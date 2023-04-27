@@ -3,8 +3,6 @@
 <html>
 
 <body>
-  
-### 目錄還在研究中...
 
 ---
 * <h3>作業一影片 - 心智圖講解</h3>
@@ -17,6 +15,7 @@
   https://youtu.be/aQ1Ji9DGTw4
   
 * <h3>作業三影片 - 專題實作規劃</h3>
+  https://youtu.be/
   
 * <h3>Notion進度規劃</h3>
   https://www.notion.so/muiium/b88e509d60764748bed9815314735281?pvs=4
