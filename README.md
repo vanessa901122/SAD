@@ -7,21 +7,21 @@
 ### 目錄還在研究中...
 
 ---
-* <h3>作業一影片-心智圖講解</h3>
+* <h3>作業一影片 心智圖講解</h3>
   https://youtu.be/bUQ_bn7eQyI
      
-* <h3>作業一-Web3心智圖連結</h3>
+* <h3>作業一 Web3心智圖連結</h3>
   https://gitmind.cn/app/docs/mh6w2i8p
   
-* <h3>作業二影片-實作練習</h3>
+* <h3>作業二影片 實作練習</h3>
   https://youtu.be/aQ1Ji9DGTw4
   
-* <h3>作業三影片-專題實作規劃</h3>
+* <h3>作業三影片 專題實作規劃</h3>
   
-* <h3>作業三-Notion進度規劃</h3>
+* <h3>作業三 Notion進度規劃</h3>
   https://www.notion.so/muiium/b88e509d60764748bed9815314735281?pvs=4
 
-* <h3>作業四</h3>
+* <h3>作業四影片 </h3>
   
 ---
 * <h3>相關教學網站&學習資料</h3>
