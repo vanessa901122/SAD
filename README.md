@@ -30,6 +30,8 @@
   
   - **[Figma](https://www.figma.com/files/recent?fuid=1227531073817014101)**
   
+  - **[Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)**
+  
 * <h3>其他</h3>
 
   - **[GitHub基本語法&指令](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)**
