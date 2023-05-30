@@ -23,7 +23,7 @@
   https://youtu.be/HkAAmRhS5f4
   
 * <h3>6/6期末專題成果報告</h3>
-  https://youtu.be/
+  https://youtu.be/ZVSh1Iq5dJc
 ---
 * <h3>相關教學網站&學習資料</h3>
   
